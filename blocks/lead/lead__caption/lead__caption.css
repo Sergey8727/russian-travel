@@ -6,8 +6,15 @@
     margin: 5px 0 0 16px;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 768px) {
     .lead__caption {
-        margin: 0;
+        margin-top: 8px;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .lead__caption {
+        margin-left: 0;
+    }
+}
+
