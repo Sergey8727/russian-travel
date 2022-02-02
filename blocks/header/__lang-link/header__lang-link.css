@@ -1,7 +1,9 @@
-.header__lang-link {    
-    font-size: 18px;
-    line-height: 20px;
-    color: #fff;  
+.header__lang-link {
+  font-size: 18px;
+  line-height: 20px;
+  color: #fff;
+  text-decoration: none;
+  transition: .5s;
 }
 
 .header__lang-link:hover {
@@ -10,7 +12,7 @@
 
 @media screen and (min-width: 768px) {
     .header__lang-link {
-        font-size: 24px;
-        line-height: 28px;;
+      font-size: 24px;
+      line-height: 28px;
     }
 }
