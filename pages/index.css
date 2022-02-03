@@ -34,5 +34,5 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/header/__lang/header__lang.css);
-@import url(../blocks/header/__lang-link/__link-lang_active/header__link-lang_active.css);
+@import url(../blocks/header/__lang-link/_active/header__link-lang_active.css);
 @import url(../blocks/lead/__figure/lead__figure.css);
