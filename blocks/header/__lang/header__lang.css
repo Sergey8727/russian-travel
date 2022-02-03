@@ -4,6 +4,7 @@
   padding: 0;
   min-width: 68px;
   justify-content: space-between;
+  margin: 0;
 }
 
 @media screen and (min-width: 768px) {
